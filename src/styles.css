@@ -1,1 +1,9 @@
-/* You can add global styles to this file, and also import other style files */
+ins{
+  color: black;
+  background: #bbffbb;
+}
+
+del{
+  color: black;
+  background: #ffbbbb;
+}
